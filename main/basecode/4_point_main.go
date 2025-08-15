@@ -1,4 +1,4 @@
-package main
+package basecode
 
 func main1() {
 	// 1. 指针的基本使用
