@@ -45,6 +45,7 @@ func main() {
 }
 
 /**
+
 在执行 select 语句的时候，如果当下那个时间点没有一个 case 满足条件，就会走 default 分支。
 
 至多只能有一个 default 分支。
